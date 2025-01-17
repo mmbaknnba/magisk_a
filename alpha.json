@@ -1,6 +1,6 @@
 {
   "magisk": {
-    "version": "check update manually",
+    "version": "check-update-manually",
     "versionCode": "28101",
     "link": "https://github.com/mmbaknnba/magisk_a/blob/main/app-release.apk",
     "note": "https://github.com/mmbaknnba/magisk_a/blob/main/readme.md"
